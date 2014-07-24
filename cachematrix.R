@@ -1,7 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## here is my comment
 
-## Write a short comment describing this function
+## my function will do the following
 
 makeCacheMatrix <- function(x = matrix()) {
 
